@@ -1,0 +1,43 @@
+/* green button #00a51c  text #7acc5b */
+/* yellow button #ffb83d*/
+/* blue button #00bcb0*/
+/* grey button #f7f7f7  text #9f9f9f */
+
+@font-face {
+    font-family: "SourceSansPro-Bold";
+    src: url("./fonts//SourceSansPro-Bold.otf");
+}
+
+@font-face {
+    font-family: "SourceSansPro-Regular";
+    src: url("./fonts//SourceSansPro-Regular.otf");
+}
+
+.logo {
+    font-family: "SourceSansPro-Bold";
+    font-size: 48px;
+    color: #ffb83d;
+    text-decoration: none;
+}
+
+.s1_title {
+    font-family: "SourceSansPro-Bold";
+    font-size: 72px;
+    color: #ffb83d;
+}
+
+.s1_desk {
+    font-family: "SourceSansPro-Bold";
+    font-size: 30px;
+    color: #000000;
+}
+
+.s2_func-title {
+    font-family: "SourceSansPro-Bold";
+    font-size: 40px;
+    color: #ffb83d;
+}
+
+footer {
+    background-color: #00bcb0;
+}
